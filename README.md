@@ -1,2 +1,0 @@
-# Word-Character-Counter
-Counter
